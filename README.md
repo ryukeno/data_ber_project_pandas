@@ -69,3 +69,4 @@ Codes : https://github.com/MikkiSeidenschnur/data_ber_project_pandas/tree/master
 [Repository](https://github.com/https://github.com/MikkiSeidenschnur/data_ber_project_pandas)  
 [Slides](https://slides.com/)
 [Trello](https://trello.com/b/K5FdrW5H/week-3-project)  
+Project : https://github.com/ryukeno/data_ber_project_pandas/blob/master/presentation_pandas.pdf
