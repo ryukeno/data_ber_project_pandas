@@ -60,10 +60,8 @@ Our repository contains a folder called "data" which contains all the data we ha
 
 ## Links
 Organization / Workflow Trello Board: https://trello.com/b/K5FdrW5H/flying-with-corona
-
-Datasets scrapped: https://github.com/MikkiSeidenschnur/data_ber_project_pandas/tree/master/data
-
-Codes : https://github.com/MikkiSeidenschnur/data_ber_project_pandas/tree/master/data
+Datasets scrapped: https://github.com/ryukeno/data_ber_project_pandas/tree/master/data
+Codes : https://github.com/ryukeno/data_ber_project_pandas/tree/master/modules
 Project : https://github.com/ryukeno/data_ber_project_pandas/blob/master/presentation_pandas.pdf
 
 [Repository](https://github.com/ryukeno/data_ber_project_pandas)  
